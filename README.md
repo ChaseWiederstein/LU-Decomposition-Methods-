@@ -17,6 +17,8 @@ This section presents the results from applying the LU decomposition methods to 
 ## 4. Conclusion
 This section summarizes the overall findings, confirming the accuracy of the LU decomposition methods in solving \( Ax = b \) with consistent relative errors across different scenarios.
 
-# Files
+## Project Files
+- **Paper**: [decompositionProject.pdf](decompositionProject.pdf) – Describes the methods, results, and analysis in detail.  
+- **Code**: [project.cpp](project.cpp) – Contains the implementation of the three quadrature methods.  
 
 
